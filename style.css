@@ -8,3 +8,8 @@ body{font-size: x-large;color: white;}
 h2{color: antiquewhite; background-color: rgb(68, 63, 63);margin-left: 400px;margin-right: 500px;}
 
 h3{background-color: rgb(68, 63, 63); padding-left: 240px;margin-left: 400px;margin-right: 500px;}
+
+.strat{width: 200px;padding-left: 50px;}
+.books{width: 200px;padding-left: 50px;}
+
+div{color: antiquewhite;font: 300;}
