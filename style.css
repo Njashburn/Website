@@ -5,11 +5,13 @@ img{padding-left: 973px;}
 
 body{font-size: x-large;color: white;}
 
-h2{color: antiquewhite; background-color: rgb(68, 63, 63);margin-left: 400px;margin-right: 500px;}
+h2{color: antiquewhite; background-color: rgb(68, 63, 63);margin-left: 400px;margin-right: 500px;text-align: center;}
 
-h3{background-color: rgb(68, 63, 63); padding-left: 240px;margin-left: 400px;margin-right: 500px;}
+h3{background-color: rgb(68, 63, 63); margin-left: 400px;margin-right: 500px;color: antiquewhite;text-align: center;}
 
 .strat{width: 200px;padding-left: 50px;}
 .books{width: 200px;padding-left: 50px;}
+.woodworking{width: 200px;padding-left: 50px;}
+.gym{width: 200px;padding-left: 50px;}
 
 div{color: antiquewhite;font: 300;}
